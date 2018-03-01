@@ -8,4 +8,3 @@
 class OurfirstscraperPipeline(object):
     def process_item(self, item, spider):
         return item
-# WHAT A WONDERFUL SCRAPPER FROM ADRIEN OMONT !!
