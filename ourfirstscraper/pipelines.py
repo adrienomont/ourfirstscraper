@@ -8,3 +8,7 @@
 class OurfirstscraperPipeline(object):
     def process_item(self, item, spider):
         return item
+
+# This is a brand new comment
+
+# A lovely comment with very much paillettes inside
